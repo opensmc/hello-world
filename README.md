@@ -7,10 +7,10 @@ This file should be expanded and used as a "getting started" guide for all new c
 ### Contributor list
 
 _How to add your name to the contributor list:_
-1. create your own branch in the github project
-1. Edit this README.md file to add your information below
-1. Commit your changes to the branch, and push to github
-1. Create a pull request to merge your changes to master.
+1. create your own branch in the github project  
+1. Edit this README.md file to add your information below  
+1. Commit your changes to the branch, and push to github  
+1. Create a pull request to merge your changes to master.  
 
 Contributor           | Email
 ----------------------|---------------------------------

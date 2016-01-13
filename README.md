@@ -15,4 +15,7 @@ _How to add your name to the contributor list:_
 Contributor           | Email
 ----------------------|---------------------------------
 Greg Gladman          | greg@gladman.com
-Aiko Weverka		  | aweverka@gmail.com
+David Kwan            | david.k.kwan@gmail.com
+Aiko Weverka          | aweverka@gmail.com
+
+

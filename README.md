@@ -16,3 +16,6 @@ Contributor           | Email
 ----------------------|---------------------------------
 Greg Gladman          | greg@gladman.com
 David Kwan            | david.k.kwan@gmail.com
+Aiko Weverka          | aweverka@gmail.com
+
+
